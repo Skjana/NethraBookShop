@@ -1,0 +1,6 @@
+1	Gr-08_English	eugin	350
+2	Gr-08_Science	anoja	350
+3	Gr-08_Maths	bavish	530
+4	Gr-08_History	janujan	450
+5	Gr-09_English	eugin	400
+6	Gr-09_Science	bavish	450

@@ -1,0 +1,3 @@
+1 thanusan 0767543 2024-2-1 11:5:43 25560 3 1 Gr-08_English 4 3 Gr-08_Maths 37 2 Gr-08_Science 13 
+2 jana 0712367 2024-2-1 11:19:25 29100 3 4 Gr-08_History 25 1 Gr-08_English 35 2 Gr-08_Science 16 
+2 jana 0765437 2024-2-1 11:22:18 23900 3 5 Gr-09_English 25 3 Gr-08_Maths 15 2 Gr-08_Science 17 

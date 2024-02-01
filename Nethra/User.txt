@@ -1,0 +1,2 @@
+1	kemansharp	keman	776894	admin	1234
+2	anoja	anoja	756890	cashier	2456

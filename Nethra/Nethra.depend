@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706764685 source:c:\users\kugan\pictures\bookstore\nethra\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<vector>
+
